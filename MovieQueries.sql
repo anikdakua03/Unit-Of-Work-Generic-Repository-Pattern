@@ -1,0 +1,5 @@
+select * from [dbo].[Actors]
+select * from [dbo].[Biographies]
+select * from [dbo].[GenreMovie]
+select * from [dbo].[Genres]
+select * from [dbo].[Movies]
